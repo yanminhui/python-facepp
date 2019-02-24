@@ -34,9 +34,9 @@ a simple but powerful Pythonic API inspired by a well-known `Django ORM
    32
 
    >>> image.faces[0].smile
-   {u'threshold': 50.0, u'value': 100.0}
+   {'threshold': 50.0, 'value': 100.0}
 
-*More example in* `__main__.py <https://www.github.com/yanminhui>`__ 
+*More example in* `__main__.py <https://github.com/yanminhui/python-facepp/blob/master/facepplib/__main__.py>`__
 
 Features
 --------
@@ -56,7 +56,7 @@ The recommended way to install is from Python Package Index (PyPI) with `pip <ht
 
    $ pip install python-facepp
 
-Check ``facepplib``:
+Check **facepplib**:
 
 .. code-block:: bash
 
