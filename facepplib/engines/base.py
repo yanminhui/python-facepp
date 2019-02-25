@@ -82,7 +82,7 @@ class BaseEngine(object):
                 if not isinstance(image_file, tuple) or len(image_file) < 2:
                     continue
                 fp = image_file[1]
-                if not isinstance(fp, file) or fp.closed:
+                if hasattr(fp, 'closed') and fp.closed:
                     continue
                 fp.close()
 
