@@ -1,6 +1,13 @@
 Changelog
 ---------
 
+0.1.0a5 (2019-02-26)
+++++++++++++++++++++
+
+**Bugfixes**:
+
+- `pip install python-facepp` raise UnicodeDecodeError in windows
+
 0.1.0a4 (2019-02-25)
 ++++++++++++++++++++
 
