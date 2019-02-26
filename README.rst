@@ -73,7 +73,7 @@ License
 
 The class is licensed under the `MIT License <http://opensource.org/licenses/MIT>`__:
 
-Copyright (c) 2019 `颜闽辉 <mailto:yanminhui163@163.com>`__
+Copyright (c) 2019 `yanminhui <mailto:yanminhui163@163.com>`__
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
